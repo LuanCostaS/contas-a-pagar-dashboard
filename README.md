@@ -2,7 +2,7 @@
 
 Dashboard interativo de contas a pagar feito em HTML, CSS e JavaScript puro (sem build, sem framework).
 Tem visão geral, pagamentos, saldo a pagar, tabela de contas, filtros por categoria, centro de custo,
-status, filial e período, e um assistente que responde perguntas sobre os dados.
+status, filial e período, e um assistente que responde perguntas sobre os dados com o modelo ia PHI-3.5.
 
 ## Como abrir
 
